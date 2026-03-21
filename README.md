@@ -1,2 +1,3 @@
-# hyper-bug-tracker-75rd
+# Hyper Bug Tracker 75Rd
+
 A repository to test GitHub automation for issue management.
